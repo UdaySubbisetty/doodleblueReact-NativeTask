@@ -5,7 +5,7 @@ doodleblue React-Native Task
 
 |e.g. Android Example|e.g. IOS Example|
 |:---:|:---:|
-|<img src="https://github.com/sUdayBhaksar/doodleblueReact-NativeTask/blob/master/AndroidRecord.mov" alt="sample_01.mov" width="200px" /> | <img src="https://github.com/sUdayBhaksar/doodleblueReact-NativeTask/blob/master/IOSRECORD.mov" alt="sample_02.mov" width="200px" />|
+|<img src="https://github.com/sUdayBhaksar/doodleblueReact-NativeTask/blob/master/sampleOne.gif" alt="sample_01.gif" width="200px" /> | <img src="https://github.com/sUdayBhaksar/doodleblueReact-NativeTask/blob/master/sampleTwo.gif" alt="sample_02.gif" width="200px" />|
 
 
 
@@ -13,7 +13,7 @@ doodleblue React-Native Task
 
 1. npm install
 
-2.react-native run-android or react-native run-ios
+ 2.react-native run-android or react-native run-ios
 
 
 
