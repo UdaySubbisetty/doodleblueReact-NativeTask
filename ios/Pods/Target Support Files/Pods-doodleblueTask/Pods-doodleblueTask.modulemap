@@ -1,0 +1,6 @@
+module Pods_doodleblueTask {
+  umbrella header "Pods-doodleblueTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
